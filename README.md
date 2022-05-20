@@ -13,3 +13,9 @@ Anyway, here are the rules:
 
 1. Even-letter words get 50% styling
 2. Odd-letter words get 50% styling, rounded up
+
+## Before
+![Before](./before.PNG)
+
+## After
+![After](./after.PNG)
