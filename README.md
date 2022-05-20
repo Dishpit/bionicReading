@@ -11,6 +11,5 @@ Why the fuck they decided to patent that is beyond me.
 
 Anyway, here are the rules:
 
-1-letter words get full styling
 Even-letter words get 50% styling
 Odd-letter words get 50% styling, rounded up
