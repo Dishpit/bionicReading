@@ -12,9 +12,9 @@ for (let i = 0; i < paragraphs.length; i++) {
     // select the current word
     let word = words[j];
     // if the word is 1 character long
-    if (word.length === 1) {
+    if (word.length > 1) {
       // add a class to the word
-      word.classList.add('bionic');
+      word.style.fontWeight = 'bold';
     }
   }
 }

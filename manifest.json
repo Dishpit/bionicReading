@@ -9,6 +9,9 @@
     "32": "icon.png",
     "64": "icon.png"
   },
+  "background": {
+    "service_worker": "start.js"
+  },
   "content_scripts": [
     {
       "matches": ["https://*/*"],
